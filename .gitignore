@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+*.pt
+*.pth
+*.svs
+*.ndpi
+*.h5
+.venv/
+venv/

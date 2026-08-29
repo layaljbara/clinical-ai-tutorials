@@ -1,0 +1,19 @@
+
+    <article>
+        <front>
+            <journal-title>Journal of Testing</journal-title>
+            <article-title>Effect of <sub>X</sub> on <sup>Y</sup></article-title>
+            <abstract>
+                <sec>
+                    <title>Methods</title>
+                    <p>We looked at Table 1 <xref ref-type="table">1</xref> and Figure 2 <xref ref-type="fig">2</xref>.</p>
+                    <p>Referencing Smith et al. <xref ref-type="bibr">23</xref>.</p>
+                </sec>
+                <sec>
+                    <title>Results</title>
+                    <p>Concentration (C<sub>max</sub>) was high.</p>
+                </sec>
+            </abstract>
+        </front>
+    </article>
+    
